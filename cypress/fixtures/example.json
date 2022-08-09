@@ -1,0 +1,15 @@
+{
+  "nombre": "Adrian",
+  "apellido": "Torres",
+  "email": "cypresspractica@gmail.com",
+  "phone":"115545558",
+  "direccion":"Pacheco de melo",
+  "lenguaje":["PHP","PYTHON", "JS"],
+  "calendario":["Diciembre", "1990","31"],
+  "radio":"Selenium",
+  "archivo":"115545558",
+  "sistemOperativo":"Linux",
+  "opcionesDe":"Debian",
+  "imagen": "img-blog5.png"
+}
+
